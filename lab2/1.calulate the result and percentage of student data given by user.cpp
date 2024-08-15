@@ -17,7 +17,7 @@ int main(){
 	scanf("%d",&dl);
 	printf("input the mark of english:\n");
 	scanf("%d",&english);
-	printf("input the mark of st:\n");
+	printf("input the mark of sociology and technology:\n");
 	scanf("%d",&st);
     perc=(math+cfa+dl+english+st)/5;
    if(math>=40 && cfa>=40 && dl>=40 && english>=40 && st>=40)
